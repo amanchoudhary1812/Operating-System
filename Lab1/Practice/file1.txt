@@ -1,1 +1,3 @@
-Hello OS Labø
+Hello OS Lab
+My name is Aman Choudhary
+I am a MCA Student
