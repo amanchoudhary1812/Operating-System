@@ -1,4 +1,2 @@
-Hello OS Lab
-My name is Aman Choudhary
-I am a MCA Student
-Operating System Lab
+Hello Aman Choudhary
+MCA
