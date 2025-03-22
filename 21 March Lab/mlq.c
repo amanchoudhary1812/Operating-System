@@ -96,7 +96,7 @@ void execute_mlq(Process processes[], int n) {
 }
 
 int main() {
-    
+
     // Sample Data
     Process sample_data[] = {
         {0, 1, 3, 0, 0, 0},
@@ -105,6 +105,7 @@ int main() {
         {3, 7, 4, 0, 0, 0},
         {4, 8, 5, 0, 0, 0}
     };
+    
     int sample_n = 5;
 
     printf("=== Sample Data Execution ===\n");
