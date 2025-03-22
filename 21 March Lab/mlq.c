@@ -96,6 +96,7 @@ void execute_mlq(Process processes[], int n) {
 }
 
 int main() {
+    
     // Sample Data
     Process sample_data[] = {
         {0, 1, 3, 0, 0, 0},
